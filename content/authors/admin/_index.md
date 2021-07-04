@@ -32,7 +32,7 @@ education:
   - course: MS in Applied Statistics & Analytics
     institution: Central Michigan University
     year: 2021
-  - course: BSc in Mathematics and Statistics
+  - course: BSc in Mathematics & Statistics
     institution: University of Ghana
     year: 2017
 
