@@ -1,5 +1,5 @@
 ---
-# An instance of the Teaching widget.
+# An instance of the Courses widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: Courses
 
