@@ -24,15 +24,21 @@ design:
   columns: "2" 
 ---
 
+### Central Michigan University 
+- STA 282QR - Introduction to Statistics 
 
-### Graduate Teaching Assistant, University of Nevada, Reno
-- MATH 127 - Pre-Calculus II (∼70 students) &nbsp; || &nbsp; Spring 2021
-- MATH 181 - Calculus I (∼90 students) &nbsp; || &nbsp; Fall 2020
-- MATH 126 - Pre-Calculus I (∼140 students) &nbsp; || &nbsp; Fall 2019
+### University of Professional Studies, Accra, Ghana 
+- BASC 306 - Stochastic Processes
+- BASC 208 - Risk Theory 
+
+### Regent University College of Science and Technology, Ghana    
+-	STAT 549 - Advanced Sampling Techniques
+- STAT 532 - Modern Statistical Inference
+
+### University of Ghana (National Service)
+- STAT 112 - Elementary Probability	
+- STAT 442/602 - Statistical Inference: Hypotheses Testing	
+- STAT 441/601 - Statistical Inference: Estimation \& Decision Theory
+- STAT 111 - Introductory Statistics 
 
 
-### Teaching Assistant, University of Ghana
-- STAT 224 - Introductory Probability II (∼60 students) &nbsp; || &nbsp; Spring 2018
-- STAT 222 - Data Analysis I (∼95 students) &nbsp; || &nbsp; Spring 2018
-- STAT 221 - Introductory Probability I (∼60 students) &nbsp; || &nbsp; Fall 2017
-- ACTU 409 - Introduction to Actuarial Mathematics (∼140 students) &nbsp; || &nbsp; Fall 2017
