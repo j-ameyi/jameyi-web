@@ -28,7 +28,7 @@ item:
   date_start: "2021-08-01"
   description: ""
   organization: The Ohio State University
-  organization_url: https://stat.osu.edu/
+  organization_url: https://osu.edu/
   title: Dean's Distinguished University Fellowship
   url: ""
   
