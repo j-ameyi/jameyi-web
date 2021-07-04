@@ -75,7 +75,7 @@ I am currently a first-year PhD student in the Biostatistics program at The Ohio
 
 My broad research interests include Bayesian Analysis, Statistical Genetics, Clinical Trials and High-dimensional Data Analysis, with applications in public health.
 
-In my spare time, I like to listen to music, spend time with my friends and family or, more recently, go for a walk. I also enjoy playing soccer and watching the English Premier League (The Blues!).
+In my spare time, I like to listen to music, spend time with my friends and family or, more recently, go out for a walk. I also enjoy playing soccer and watching the English Premier League (The Blues!).
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
