@@ -45,7 +45,7 @@ experience:
     description: |2-
     
         * Opened accounts for new customers.
-        * Operated mobile money services.
+        * Supervised mobile money transactions.
         * Served as the Customer Relations Officer of the branch. 
 design:
   columns: '2'
