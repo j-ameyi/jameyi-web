@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+Courses:
   - title: Instructor
     company: Central Michigan University
     company_url: 'https://www.cmich.edu/'
@@ -33,18 +33,6 @@ experience:
          
         * STA 282QR - Introduction to Statistics         
         
-  - title: Summer Intern
-    company: Midland Savings and Loans Ltd.
-    company_url: ''
-    company_logo: ''
-    location: Ghana
-    date_start: '2015-06-01'
-    date_end: '2015-08-31'
-    description: |2-
-    
-        * Opened accounts for new customers.
-        * Supervised mobile money transactions.
-        * Served as the Customer Relations Officer of the branch. 
-design:
+  design:
   columns: '2'
 ---
