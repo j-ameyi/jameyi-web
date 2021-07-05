@@ -14,14 +14,14 @@ organizations:
   url: https://biostatprograms.osu.edu/biostatphd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Bayesian Analysis, High-dimensional Data Analysis, Statistical Computing and Adaptive Clinical Trials
 
 # Interests to show in About widget
 interests:
 - Bayesian Analysis
 - High-dimensional Data Analysis
-- Statistical Genetics
-- Clinical Trials
+- Statistical Computing
+- Adaptive Clinical Trials
 
 # Education to show in About widget
 education:
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,11 +71,10 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a first year PhD student in the Biostatistics program at The Ohio State University, Columbus, Ohio (Go Bucks!). I was born and raised in Accra, Ghana where I received my BS in Mathematics and Statistics from Ghana's premier university. From there, I obtained my MS degree in Applied Statistics & Analytics at the Central Michigan University, Mount Pleasant, MI.  
+I am currently a first year PhD student in the Biostatistics program at The Ohio State University, Columbus, Ohio (*Go Bucks!*). I was born and raised in Accra, Ghana where I received my BS in Mathematics and Statistics from Ghana's premier university. From there, I obtained my MS degree in Applied Statistics & Analytics at Central Michigan University, Mount Pleasant, MI.  
 
-My broad research interests include Bayesian Analysis, Statistical Genetics, Clinical Trials and High-dimensional Data Analysis, with applications in public health.
+My broad research interests include **Bayesian Analysis, Statistical Computing, Adaptive Clinical Trials** and **High-dimensional Data Analysis**, with applications in public health.
 
-In my spare time, I like to listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the English Premier League (The Blues!).
-
+In my spare time, I like to listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
