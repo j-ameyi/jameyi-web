@@ -29,7 +29,7 @@ item:
   description: ""
   organization: The Ohio State University
   organization_url: https://osu.edu/
-  title: Dean's Distinguished University Fellowship
+  title: Graduate Fellowship
   url: ""
   
 # - certificate_url: ''
