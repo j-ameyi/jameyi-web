@@ -25,7 +25,7 @@ experience:
   - title: Research and Consulting Assistant
     company: Statistical Consulting Center, Central Michigan University
     company_url: 'https://www.cmich.edu/colleges/se/STAD/researchandconsulting/statisticalconsultingcenter/Pages/default.aspx'
-    company_logo: cmich
+    company_logo: ''
     location: Michigan
     date_start: '2019-08-01'
     date_end: '2021-05-14'
