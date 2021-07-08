@@ -28,6 +28,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 25
-- name: Verify
+  - name: Verify
     url: uploads/google9e8ced20ee14996b.html
     weight: 28
