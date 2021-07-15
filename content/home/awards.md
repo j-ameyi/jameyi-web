@@ -24,13 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ''
-  date_end: ""
+  date_end: "2022-07-31"
   date_start: "2021-08-01"
   description: ""
   organization: The Ohio State University
   organization_url: https://osu.edu/
-  title: Graduate Fellowship
-  url: ""
+  title: Dr. Gary G. Koch & Mrs. Carolyn J. Koch Fellowship 
+  url: https://cph.osu.edu/biostatistics/giving
   
 # - certificate_url: ''
 #   date_end: ""
