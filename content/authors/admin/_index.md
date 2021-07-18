@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a first year PhD student in the Biostatistics program at The Ohio State University, Columbus, Ohio (*Go Bucks!*). I was born and raised in Accra, Ghana where I received my BS in Mathematics and Statistics from Ghana's premier university. From there, I obtained my MS degree in Applied Statistics & Analytics at Central Michigan University, Mount Pleasant, MI.  
+I am currently a first year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at The Ohio State University, Columbus, Ohio (*Go Bucks!*). I was born and raised in Accra, Ghana where I received my BS in Mathematics and Statistics from Ghana's premier university. From there, I obtained my MS degree in Applied Statistics & Analytics at Central Michigan University, Mount Pleasant, MI.  
 
 My broad research interests include **Bayesian Analysis, Statistical Computing, Adaptive Clinical Trials** and **High-dimensional Data Analysis**, with applications in public health.
 
