@@ -77,4 +77,4 @@ My broad research interests include **Bayesian Analysis, Statistical Computing, 
 
 In my spare time, I like to listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
+ {{< icon name="download" pack="fas" >}} You may download my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
