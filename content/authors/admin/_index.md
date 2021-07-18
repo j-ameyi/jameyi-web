@@ -74,7 +74,7 @@ highlight_name: false
 Welcome to my homepage! Starting Fall 2021, I will be a first year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at [The Ohio State University](https://www.osu.edu/), Columbus, Ohio (*Go Bucks!*). I am honored to be the receipient of the **Dr. Gary G. & Mrs. Carolyn J. Koch Fellowship award** in the [College of Public Health](https://cph.osu.edu/) for the 2021-2022 academic year. My broad research interests include Bayesian Analysis, Statistical Computing, Adaptive Clinical Trials and High-dimensional Data Analysis, with applications in public health.
 
 
-I was born and raised in Accra, Ghana where I received my BS in Mathematics and Statistics from [Ghana's premier university](https://www.ug.edu.gh/). From there, I obtained my MS degree in Applied Statistics & Analytics at Central Michigan University, Mount Pleasant, MI.  
+I was born and raised in Accra, Ghana where I received my B.S. in Mathematics and Statistics from [Ghana's premier university](https://www.ug.edu.gh/). From there, I obtained my [M.S. in Applied Statistics & Analytics](https://www.cmich.edu/colleges/se/STAD/graduateprograms/misappliedstatisticsandanalytics/Pages/default.aspx) at Central Michigan University, Mount Pleasant, MI.  
 
 In my spare time, I like to listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
 
