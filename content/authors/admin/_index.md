@@ -21,7 +21,7 @@ interests:
 - Bayesian Analysis
 - Bioinformatics
 - Statistical Genetics
-- AStatistical computing and graphics
+- Statistical computing and graphics
 
 # Education to show in About widget
 education:
