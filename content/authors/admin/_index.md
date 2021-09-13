@@ -14,14 +14,14 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian Analysis, High-dimensional Data Analysis, Statistical Computing and Adaptive Clinical Trials
+bio: My research interests include Bayesian methods, bioinformatics, statistical genetics, high-dimensional data analysis, statistical computing and graphics.
 
 # Interests to show in About widget
 interests:
 - Bayesian Analysis
-- High-dimensional Data Analysis
-- Statistical Computing
-- Adaptive Clinical Trials
+- Bioinformatics
+- Statistical Genetics
+- AStatistical computing and graphics
 
 # Education to show in About widget
 education:
@@ -73,8 +73,8 @@ highlight_name: false
 
 I was born and raised in Accra, Ghana where I received my B.S. in Mathematics and Statistics from [Ghana's premier university](https://www.ug.edu.gh/). From there, I obtained my [M.S. in Applied Statistics & Analytics](https://www.cmich.edu/colleges/se/STAD/graduateprograms/misappliedstatisticsandanalytics/Pages/default.aspx) at Central Michigan University, Mount Pleasant, MI.
 
-Starting Fall 2021, I will be a first year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at [The Ohio State University](https://www.osu.edu/), Columbus, Ohio (*Go Bucks!*). I am honored to be the receipient of the **Dr. Gary G. & Mrs. Carolyn J. Koch Fellowship award** in the [College of Public Health](https://cph.osu.edu/) for the 2021-2022 academic year. My broad research interests include Bayesian Analysis, Statistical Computing, Adaptive Clinical Trials and High-dimensional Data Analysis, with applications in public health. 
+Starting Fall 2021, I will be a first year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at The Ohio State University in Columbus, Ohio (*Go Bucks!*). I am honored to be the receipient of the **Dr. Gary G. & Mrs. Carolyn J. Koch Fellowship award** in the [College of Public Health](https://cph.osu.edu/) for the 2021-2022 academic year. My broad research interests are in Bayesian methods, bioinformatics, statistical genetics, high-dimensional data analysis, statistical computing and graphics.
 
-In my spare time, I like to listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
+In my spare time, I like to travel, listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
 
  {{< icon name="download" pack="fas" >}} You may find a copy of my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
