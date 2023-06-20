@@ -18,10 +18,10 @@ bio: My research interests include Bayesian methods, bioinformatics, statistical
 
 # Interests to show in About widget
 interests:
+- Statistical methods for the analysis of data from high-throughput genomic assays 
+- Survival Analysis
+- Causal Inference
 - Bayesian Analysis
-- Bioinformatics
-- Statistical Genetics
-- Statistical computing and graphics
 
 # Education to show in About widget
 education:
@@ -71,10 +71,10 @@ email: ""
 highlight_name: false
 ---
 
-I was born and raised in Accra, Ghana where I received my B.S. in Mathematics and Statistics from [Ghana's premier university](https://www.ug.edu.gh/). From there, I obtained my [M.S. in Applied Statistics & Analytics](https://www.cmich.edu/colleges/se/STAD/graduateprograms/misappliedstatisticsandanalytics/Pages/default.aspx) at Central Michigan University, Mount Pleasant, MI.
+Starting Fall 2023, I will be a third year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at The Ohio State University in Columbus, OH working with [Dr. Kellie J. Archer](https://cph.osu.edu/people/karcher). I am honored to have received the **Dr. Gary G. & Mrs. Carolyn J. Koch Fellowship award** in the [College of Public Health](https://cph.osu.edu/) for the 2021-2022 academic year. My broad research interests are in statistical methods for the analysis of data from high-throughput genomic assays, survival analysis,causal inference, and Bayesian analysis.
 
-Starting Fall 2021, I will be a first year student in the [Ph.D. Biostatistics](https://biostatprograms.osu.edu/) program at The Ohio State University in Columbus, Ohio (*Go Bucks!*). I am honored to be the receipient of the **Dr. Gary G. & Mrs. Carolyn J. Koch Fellowship award** in the [College of Public Health](https://cph.osu.edu/) for the 2021-2022 academic year. My broad research interests are in Bayesian methods, bioinformatics, statistical genetics, statistical computing and graphics.
+I was born and raised in Accra, Ghana where I received my B.S. in Mathematics and Statistics from the [University of Ghana](https://www.ug.edu.gh/). From there, I obtained my [M.S. in Applied Statistics & Analytics](https://www.cmich.edu/colleges/se/STAD/graduateprograms/misappliedstatisticsandanalytics/Pages/default.aspx) at Central Michigan University, Mount Pleasant, MI.
 
-In my spare time, I like to travel, listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues. 
+In my spare time, I like to travel by land or air, listen to music, spend time with my friends and family or go out for a walk. I also enjoy playing soccer and watching the Ghanaian and English Premier Leagues on weekends when I am less busy. I have recently developed keen interest in college football (*Go Bucks!*), the NFL and the NBA. 
 
  {{< icon name="download" pack="fas" >}} You may find a copy of my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
